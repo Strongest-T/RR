@@ -2,3 +2,4 @@ R
 Y
 G
 B
+Violet
