@@ -1,4 +1,6 @@
 Other
+<<<<<<< HEAD
 S
+=======
 B
-P
+>>>>>>> e5aa73e (black)
